@@ -1,0 +1,1 @@
+const kCurrencyApiKey = '8D17D85D-7517-4043-B1F6-5D1AC1FD6AC9';
